@@ -1,3 +1,5 @@
+# Problem: https://leetcode.com/problems/design-browser-history/
+
 class Node(object):
     def __init__(self, value=0, next=None, prev=None):
         self.value = value
